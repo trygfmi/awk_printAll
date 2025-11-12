@@ -27,7 +27,7 @@
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
 
 
 
@@ -49,7 +49,7 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
 
 
 
@@ -71,7 +71,7 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
 
 
 
@@ -89,7 +89,7 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
 
 
 
@@ -120,7 +120,7 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -132,7 +132,7 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -144,12 +144,12 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello awk command world<br>hello<br>awk<br>command<br>world</code></pre>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello awk command world<br>hello<br>awk<br>command<br>world</code></pre></p>
 </details>
 </details>
 
@@ -168,7 +168,7 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -200,7 +200,7 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -212,12 +212,12 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello awk command world<br>hello<br>awk<br>command<br>world</code></pre>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello awk command world<br>hello<br>awk<br>command<br>world</code></pre></p>
 </details>
 </details>
 
@@ -240,7 +240,7 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -248,7 +248,7 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -276,7 +276,7 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -284,7 +284,7 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
 
 
 
@@ -300,12 +300,12 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello awk command world<br>hello<br>awk<br>command<br>world</code></pre>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello awk command world<br>hello<br>awk<br>command<br>world</code></pre></p>
 </details>
 
 
@@ -314,12 +314,12 @@ world</code></pre>
 
 
 
-<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello awk command world<br>hello<br>awk<br>command<br>world</code></pre>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello awk command world<br>hello<br>awk<br>command<br>world</code></pre></p>
 </details>
 </details>
 
@@ -334,4 +334,3 @@ world</code></pre>
 
 
 <p></p>
-
