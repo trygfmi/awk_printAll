@@ -3,7 +3,9 @@
 
 
 
-<p>このリポジトリは、awkコマンドを実行して空白で区切られた文字列を分割して全て表示します</p>
+<div class="wp-block-group">
+<p>このリポジトリは、awkコマンドを実行して文字列を全て表示した後、空白で区切られた文字列を分割して表示します</p>
+</div>
 
 
 
@@ -11,7 +13,9 @@
 
 
 
+<div class="wp-block-group">
 <p>特に無し</p>
+</div>
 
 
 
@@ -19,6 +23,7 @@
 
 
 
+<div class="wp-block-group">
 <p>awkコマンドを実行して文字列を出力してみてください</p>
 
 
@@ -27,6 +32,7 @@
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
 
 
@@ -38,6 +44,7 @@ awk
 command
 world</code></pre>
 </details>
+</div>
 
 
 
@@ -45,6 +52,7 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <h4 class="wp-block-heading">MacPorts</h4>
 
 
@@ -60,6 +68,7 @@ awk
 command
 world</code></pre>
 </details>
+</div>
 
 
 
@@ -67,10 +76,12 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <h4 class="wp-block-heading">WSL2</h4>
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
 
 
@@ -82,6 +93,7 @@ awk
 command
 world</code></pre>
 </details>
+</div>
 
 
 
@@ -89,6 +101,7 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
 
 
@@ -100,6 +113,9 @@ awk
 command
 world</code></pre>
 </details>
+</div>
+</div>
+</div>
 
 
 
@@ -107,6 +123,7 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <h3 class="wp-block-heading">ubuntu</h3>
 
 
@@ -116,11 +133,13 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを端末に打ち込んでcommand not foundが出なければokです</p>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -128,11 +147,13 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>端末でcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -140,6 +161,7 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細のような文字列が出力されるはずです</p>
 
 
@@ -151,6 +173,7 @@ world</code></pre>
 <details class="wp-block-details"><summary>詳細</summary>
 <p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello awk command world<br>hello<br>awk<br>command<br>world</code></pre></p>
 </details>
+</div>
 </details>
 
 
@@ -164,6 +187,7 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドをターミナルに打ち込んでcommand not foundが出なければokです</p>
 
 
@@ -189,6 +213,7 @@ world</code></pre>
 
 
 [![MacPortsでインストールしたコマンドのエイリアス設定](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/thumbnail_macports2.png,)](https://ss523971.stars.ne.jp/todo/how-to-setup-macports-alias)
+</div>
 
 
 
@@ -196,11 +221,13 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>ターミナルでcommand not foundが出たコマンドを以下のコマンドでインストールしてエイリアスを設定してください</p>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -208,6 +235,7 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細のような文字列が出力されるはずです</p>
 
 
@@ -219,6 +247,7 @@ world</code></pre>
 <details class="wp-block-details"><summary>詳細</summary>
 <p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello awk command world<br>hello<br>awk<br>command<br>world</code></pre></p>
 </details>
+</div>
 </details>
 
 
@@ -232,6 +261,7 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドをプロンプトに打ち込んでcommand not foundが出なければokです</p>
 
 
@@ -261,6 +291,7 @@ world</code></pre>
 
 
 [![](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/msys2_thumbnail_1920_1080.png)](https://ss523971.stars.ne.jp/todo/how-to-install-msys2)
+</div>
 
 
 
@@ -268,6 +299,7 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>プロンプトでcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
 
 
@@ -285,6 +317,7 @@ world</code></pre>
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -292,6 +325,7 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細のような文字列が出力されるはずです</p>
 
 
@@ -300,6 +334,7 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
 
 
@@ -307,6 +342,7 @@ world</code></pre>
 <details class="wp-block-details"><summary>詳細</summary>
 <p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello awk command world<br>hello<br>awk<br>command<br>world</code></pre></p>
 </details>
+</div>
 
 
 
@@ -314,6 +350,7 @@ world</code></pre>
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo "hello awk command world" | awk '{for (i=0;i&lt;=NF;i++) printf "%s\n", $i}'</code></pre>
 
 
@@ -321,7 +358,10 @@ world</code></pre>
 <details class="wp-block-details"><summary>詳細</summary>
 <p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello awk command world<br>hello<br>awk<br>command<br>world</code></pre></p>
 </details>
+</div>
+</div>
 </details>
+</div>
 
 
 
@@ -330,7 +370,3 @@ world</code></pre>
 
 
 <p>NFに分割後の文字列分の数字が格納されています。$iのiに値が代入されることで、それぞれの文字列にアクセスしています</p>
-
-
-
-<p></p>
